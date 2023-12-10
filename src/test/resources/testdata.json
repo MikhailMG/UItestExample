@@ -1,0 +1,6 @@
+{
+  "timerZeroValue": "00:00:00",
+  "minimuumPassLength" : "13",
+  "numberOfIntrests" : "3",
+  "pathToAvatarImage" : "\\test\\resources\\TestAvatarImage.jpg"
+}
